@@ -5,9 +5,6 @@
 Clap twice quickly → Spotify opens and plays your chosen song or playlist.  
 No voice commands. No phone. Just pure claps.
 
-![ClapControl Interface](https://via.placeholder.com/900x500/0F172A/3B82F6?text=ClapControl+Main+Interface)
-
----
 
 ## ✨ Features
 
@@ -26,8 +23,6 @@ No voice commands. No phone. Just pure claps.
 ### Main Application Window
 <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/f53ab095-8a1c-4f7f-ab04-3df4b62923e7" />
 
-
-*(Replace these placeholder images with actual screenshots of your app after uploading them to your repository)*
 
 ---
 
