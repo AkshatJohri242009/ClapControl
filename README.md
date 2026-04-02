@@ -24,7 +24,8 @@ No voice commands. No phone. Just pure claps.
 ## 📸 Screenshots
 
 ### Main Application Window
-![Main UI](https://via.placeholder.com/800x480/1E2937/60A5FA?text=ClapControl+UI)
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/f53ab095-8a1c-4f7f-ab04-3df4b62923e7" />
+
 
 *(Replace these placeholder images with actual screenshots of your app after uploading them to your repository)*
 
